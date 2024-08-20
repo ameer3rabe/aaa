@@ -1,0 +1,20 @@
+{
+    "72990307": [],
+    "43853789": [
+        {
+            "item": "weapon_pistol",
+            "label": "Pistol",
+            "recipe": [
+                {
+                    "label": "metalscrap",
+                    "item": "metalscrap",
+                    "removable": false,
+                    "amount": 1
+                }
+            ],
+            "craft_time": 6,
+            "amount": 1
+        }
+    ],
+    "64164181": []
+}
